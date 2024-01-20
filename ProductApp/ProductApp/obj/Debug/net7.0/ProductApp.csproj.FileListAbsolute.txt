@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/bin/Debug/net7.0/ProductApp
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/bin/Debug/net7.0/ProductApp.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/bin/Debug/net7.0/ProductApp.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/bin/Debug/net7.0/ProductApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/bin/Debug/net7.0/ProductApp.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/refint/ProductApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ProductApp.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductApp/ProductApp/ProductApp/obj/Debug/net7.0/ref/ProductApp.dll

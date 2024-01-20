@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8BACC01F-AEF3-4EB8-BCCF-002112F5A4AB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductApp/Market.cs">
+    <Files>
+      <File FileName="ProductApp/Program.cs" Line="15" Column="28" />
+      <File FileName="ProductApp/Product.cs" />
+      <File FileName="ProductApp/IStore.cs" />
+      <File FileName="ProductApp/Market.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductApp" expanded="True">
+            <Node name="ProductApp" expanded="True">
+              <Node name="Market.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProductApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
